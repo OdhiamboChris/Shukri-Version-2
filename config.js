@@ -12,6 +12,7 @@ var config = {
         {
             id: 'phl',
             title: 'Howlwadaag, Mogadishu',
+            subtitleText: 'Lorem Ipsum',
             image: '',
             description: 'Shukri was born in Mogadishu, and spent the early part of her life in a bustling family home at the heart of many far-reaching networks, with goods flowing in and out from Europe to Puntland. She lived with her parents, siblings, grandmother and one maternal aunt, but many people would come in and out. Her uncle played a key role in supporting her and the family. She attended a local school.',
             
